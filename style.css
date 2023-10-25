@@ -5,13 +5,13 @@ body {background-color: aquamarine;}
     font-size: 40px;
 }
 .texto1 {.color-theme_escherpeixe-2-hex { color: #734B02; }; 
-    text-align:center;
+    text-align:justify;
     font-size: 28px;
     font-family: Lucida Sans;
 }
 
 .texto2 {.color-theme_escherpeixe-4-hex { color: #8C3503; }; 
-    text-align:left;
+    text-align:justify;
     font-size: 38px;
     font-family: Lucida Sans;
 }
