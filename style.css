@@ -1,38 +1,25 @@
-body .background-color { color-theme_escherpeixe-5-hex { color: #F2F2F2}; }}
+body {background-color :#734B02;
+      color: #F2F2F2;
+}
 
-#titulo {.color-theme_escherpeixe-3-hex { color: #F5B095; }; 
+#titulo {
+    color: #F5B095; 
     text-align:center;
     font-size: 40px;
 }
-.texto1 {.color-theme_escherpeixe-2-hex { color: #734B02; }; 
+.texto1 {
+    color: #734B02; 
     text-align:justify;
     font-size: 28px;
     font-family: Lucida Sans;
 }
 
-.texto2 {.color-theme_escherpeixe-4-hex { color: #8C3503; }; 
+.texto2 {
+
+    color: #8C3503;
     text-align:justify;
     font-size: 38px;
     font-family: Lucida Sans;
 }
 
-/* Color Theme Swatches in Hex */
-.color-theme_escherpeixe-1-hex { color: #D9CF43; }
-.color-theme_escherpeixe-2-hex { color: #734B02; }
-.color-theme_escherpeixe-3-hex { color: #F2B035; }
-.color-theme_escherpeixe-4-hex { color: #8C3503; }
-.color-theme_escherpeixe-5-hex { color: #F2F2F2; }
 
-/* Color Theme Swatches in RGBA */
-.color-theme_escherpeixe-1-rgba { color: rgba(217, 207, 67, 1); }
-.color-theme_escherpeixe-2-rgba { color: rgba(115, 75, 2, 1); }
-.color-theme_escherpeixe-3-rgba { color: rgba(242, 176, 53, 1); }
-.color-theme_escherpeixe-4-rgba { color: rgba(140, 53, 3, 1); }
-.color-theme_escherpeixe-5-rgba { color: rgba(242, 242, 242, 1); }
-
-/* Color Theme Swatches in HSLA */
-.color-theme_escherpeixe-1-hsla { color: hsla(56, 66, 55, 1); }
-.color-theme_escherpeixe-2-hsla { color: hsla(38, 96, 22, 1); }
-.color-theme_escherpeixe-3-hsla { color: hsla(39, 87, 57, 1); }
-.color-theme_escherpeixe-4-hsla { color: hsla(21, 95, 28, 1); }
-.color-theme_escherpeixe-5-hsla { color: hsla(0, 0, 94, 1); }
