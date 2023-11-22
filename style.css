@@ -20,5 +20,9 @@ body {background-color :#D9CF43;
     font-size: 38px;
     font-family: Lucida Sans;
 }
-
+#bolha {
+    width: 50%;
+    margin: 20px;
+    padding: 5px;
+}
 
