@@ -29,7 +29,13 @@ body {background-color :#D9CF43;
     border-radius: 25px;
 }
 .texto3 {
-    color: #8C3503;
+    color: #0a038c;
+    text-align:justify;
+    font-size: 38px;
+    font-family: Lucida Sans;
+}
+.texto4 {
+    color: #8c0308;
     text-align:justify;
     font-size: 38px;
     font-family: Lucida Sans;
