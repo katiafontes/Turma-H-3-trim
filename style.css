@@ -23,7 +23,9 @@ body {background-color :#D9CF43;
 #bolha {
     width: 50%;
     margin: 20px;
-    padding: 5px;
+    padding: 5px; 
     align-items: center;
+    border: 10px double solid(srgb red green blue) ;
+    border-radius: 25px;
 }
 
