@@ -28,4 +28,9 @@ body {background-color :#D9CF43;
     border: 10px double solid(srgb red green blue) ;
     border-radius: 25px;
 }
-
+.texto3 {
+    color: #8C3503;
+    text-align:justify;
+    font-size: 38px;
+    font-family: Lucida Sans;
+}
