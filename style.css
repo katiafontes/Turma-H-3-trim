@@ -23,7 +23,7 @@ body {background-color :#D9CF43;
     width: 20%;
     margin: 20px;
     padding: 5px; 
-    align-items: center;
+    align-items: right;
     border: 10px double solid(srgb red green blue) ;
     border-radius: 25px;
 }
