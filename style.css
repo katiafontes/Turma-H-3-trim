@@ -50,7 +50,8 @@ header{
     font-family: Lucida Sans;
     display: flex;
     justify-content:space-around;
-    
+    border-bottom: 10px solid #0a038c;
+
 }
 #bolha2 {
     width: 25%;
