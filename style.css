@@ -1,7 +1,6 @@
 body {background-color :#D9CF43;
       color: #F2F2F2;
 }
-
 #titulo {
     color: #8C3503; 
     text-align:center;
@@ -44,11 +43,23 @@ body {background-color :#D9CF43;
    background-image: #8c0308 ;
 
 }
-
 header{
     color: #8c0709;
-    border-bottom: 5px solid  #cd082c
+    border-bottom: 5px solid #cd082c
     text-align:center;
     font-size: 20px;
     font-family: Lucida Sans;
+    display: flex;
+    justify-content:space-around;
+    
 }
+#bolha2 {
+    width: 50%;
+    margin: 20px;
+    padding: 5px; 
+    align-items: center;
+    border: 10px double solid(srgb red green blue) ;
+    border-radius: 25px;
+}
+
+
