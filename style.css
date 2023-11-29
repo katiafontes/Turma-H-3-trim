@@ -44,10 +44,11 @@ body {background-color :#D9CF43;
    background-image: #8c0308 ;
 
 }
-{h2 color: #8c0709;
+
+header{
+    color: #8c0709;
     border-bottom: 5px solid  #9c0320
     text-align:center;
     font-size: 50px;
     font-family: Lucida Sans;
-    
 }
